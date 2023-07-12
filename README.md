@@ -21,7 +21,3 @@ This project demonstrates how to use scoped storage in Android Studio.
 ## Author
 
 Sahil Patel
-
-## License
-
-This project is licensed under the MIT License.
